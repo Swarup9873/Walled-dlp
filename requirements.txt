@@ -1,0 +1,11 @@
+PyQt6>=6.6
+PyQt6-WebEngine>=6.6
+pypdf>=4.0
+pypdfium2>=4.30
+Pillow>=10.0
+numpy>=1.26
+rapidocr>=3.0
+onnxruntime>=1.20
+# tests only
+pytest>=8.0
+reportlab>=4.0
